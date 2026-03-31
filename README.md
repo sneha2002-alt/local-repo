@@ -1,6 +1,6 @@
 # 🐍 Python Daily Practice Repository
 
-Welcome to my daily Python practice repository! 🚀
+Welcome to my daily Python practice repository! 🚀 \n
 This repo tracks my consistent journey of improving problem-solving skills, coding logic, and mastering Python step by step.
 
 ---

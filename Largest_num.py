@@ -1,4 +1,4 @@
-#Largest of 4 numbers
+#WAP to check largest of 4 numbers
 num1 = int(input("Enter 1st num:"))
 num2 = int(input("Enter 2nd num:"))
 num3 = int(input("Enter 3rd num:"))

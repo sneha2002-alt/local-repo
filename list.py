@@ -15,17 +15,17 @@ print(nums)
 nums.insert(2,9) # insert element at given index
 print(nums)
 
-nums.reverse() #reverses our list
+nums.reverse() # reverses our list
 print(nums)
 
 nums.sort() # sorts in ascending order
 print(nums)
 
-nums.sort(reverse=True) #sorts in descending order
+nums.sort(reverse=True) # sorts in descending order
 print(nums)
 
-nums.pop(2)
+nums.pop(2) # removes element at given index
 print(nums)
 
-nums.remove(3)
+nums.remove(3) # removes first occurrence of element
 print(nums)

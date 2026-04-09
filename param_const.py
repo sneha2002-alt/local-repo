@@ -1,7 +1,7 @@
 # Parameterized Constructor
 class Student:
-    def __init__(self, name):
-        self.name = name
+  def __init__(self, name):
+    self.name = name
 
 stu1 = Student("Rahul")
 stu2 = Student("Harshita")

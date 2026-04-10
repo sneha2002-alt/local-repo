@@ -2,8 +2,8 @@
 
 class BankAccount:
     def __init__(self, name, balance):
-      self.name = name            # public
-      self.__balance = balance    # private
+      self.name = name    # public
+      self.__balance = balance  # private
 
     def get_balance(self):         # getter
       return self.__balance

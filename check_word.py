@@ -8,15 +8,16 @@ def check_word():
             print("Not found")  
 
 def check_line():
-    word = "learning"
+    word = "Python"
     data = True
     line_no = 1
     with open("practice.txt", "r") as f:
         while data:
             data = f.readline()
             if (word in data):
-                print(line_no)
-                return
+                print(f"{word} found at line {line_no}")
+                break
+        
             line_no += 1
             
     return -1        
